@@ -11,5 +11,5 @@ package prueba;
  */
 public class Desarrollo {
     
-    String nombre;
+    String nombre = "Ariana";
 }
